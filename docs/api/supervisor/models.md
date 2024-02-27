@@ -306,3 +306,14 @@ Response only fields will be in responses but cannot be included in requests.
 | ---------- | ------- | ---------------------------------------------- |
 | type       | string  | Type of error that occurred                    |
 | message    | string  | Human-readable description of what went wrong  |
+
+## User
+
+| key        | type    | description                                                   |
+| ---------- | ------- | ------------------------------------------------------------- |
+| username   | string  | Username used to login                                        |
+| name       | string  | Name of the user                                              |
+| is_owner   | boolean | Is the user the owner                                         |
+| is_active  | boolean | Is the user active                                            |
+| local_only | boolean | Can the user login outside the LAN                            |
+| group_ids  | list    | Role(s) the user has (admin, etc)                             |
