@@ -1,4 +1,20 @@
-{
+Awaken your home
+
+Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
+
+    Get started
+    View demo
+    Browse 1000+ integrations
+
+Pinned Awaken your home
+
+Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.
+
+    Get started
+    View demo
+    Browse 1000+ integrations
+
+Pinned {
   "name": "developers.home-assistant",
   "build": {
     "dockerfile": "Dockerfile",
